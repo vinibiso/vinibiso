@@ -10,7 +10,7 @@ title:            Vinicius Bisognin Immich
 tagline:          'Website'
 description:      'Developer & Teacher'
 url:              http://vinibiso.github.io/
-baseurl:          /vinibiso/
+baseurl:          /vinibiso
 
 author:
   name:           'Vinicius Bisognin Immich'
