@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/vinibiso/vinibiso
+  repo:           https://github.com/vinibiso/vinibiso/
 
 plugins:
   - jekyll-paginate
